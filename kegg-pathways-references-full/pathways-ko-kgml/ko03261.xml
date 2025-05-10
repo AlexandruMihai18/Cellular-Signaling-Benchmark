@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "https://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: May 27, 2024 15:17:37 +0900 (GMT+9) -->
+<pathway name="path:ko03261" org="ko" number="03261"
+         title="Virion - Influenza virus"
+         image="https://www.kegg.jp/kegg/pathway/ko/ko03261.png"
+         link="https://www.kegg.jp/kegg-bin/show_pathway?ko03261">
+    <entry id="3" name="path:ko03261" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?ko03261">
+        <graphics name="TITLE:Virion - Influenza virus" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="152" y="58" width="223" height="25"/>
+    </entry>
+    <entry id="5" name="ko:K19388" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19388">
+        <graphics name="K19388" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="663" y="336" width="46" height="17"/>
+    </entry>
+    <entry id="6" name="ko:K19389" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19389">
+        <graphics name="K19389" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="663" y="307" width="46" height="17"/>
+    </entry>
+    <entry id="8" name="ko:K19390" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19390">
+        <graphics name="K19390" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="663" y="278" width="46" height="17"/>
+    </entry>
+    <entry id="10" name="ko:K19396" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19396">
+        <graphics name="K19396" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="663" y="219" width="46" height="17"/>
+    </entry>
+    <entry id="18" name="ko:K19391" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19391">
+        <graphics name="K19391" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="664" y="133" width="46" height="17"/>
+    </entry>
+    <entry id="19" name="ko:K19393" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19393">
+        <graphics name="K19393" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="67" y="142" width="46" height="17"/>
+    </entry>
+    <entry id="24" name="path:ko05164" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?ko05164">
+        <graphics name="Influenza A" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="578" y="442" width="84" height="26"/>
+    </entry>
+    <entry id="26" name="ko:K25160" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K25160">
+        <graphics name="K25160" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="91" y="311" width="46" height="17"/>
+    </entry>
+    <entry id="27" name="ko:K25161" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K25161">
+        <graphics name="K25161" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="137" y="311" width="46" height="17"/>
+    </entry>
+    <entry id="12" name="ko:K19251" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19251">
+        <graphics name="K19251" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="67" y="275" width="46" height="17"/>
+    </entry>
+    <entry id="13" name="ko:K19392" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19392">
+        <graphics name="K19392" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="67" y="237" width="46" height="17"/>
+    </entry>
+    <entry id="21" name="ko:K19395" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19395">
+        <graphics name="K19395" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="663" y="185" width="46" height="17"/>
+    </entry>
+    <entry id="20" name="ko:K19394" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K19394">
+        <graphics name="K19394" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="67" y="176" width="46" height="17"/>
+    </entry>
+    <entry id="33" name="gl:G00299 gl:G00255" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?G00299+G00255">
+        <graphics name="G00299..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="92" y="396" width="8" height="8"/>
+    </entry>
+</pathway>

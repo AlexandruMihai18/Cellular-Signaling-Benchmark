@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "https://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: Jan 31, 2024 10:02:16 +0900 (GMT+9) -->
+<pathway name="path:rn01054" org="rn" number="01054"
+         title="Nonribosomal peptide structures"
+         image="https://www.kegg.jp/kegg/pathway/rn/rn01054.png"
+         link="https://www.kegg.jp/kegg-bin/show_pathway?rn01054">
+    <entry id="1072" name="cpd:C01540" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C01540">
+        <graphics name="C01540" fgcolor="none" bgcolor="none"
+             type="rectangle" x="780" y="756" width="53" height="14"/>
+    </entry>
+    <entry id="1083" name="cpd:C12268" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C12268">
+        <graphics name="C12268" fgcolor="none" bgcolor="none"
+             type="rectangle" x="794" y="1980" width="74" height="14"/>
+    </entry>
+    <entry id="1084" name="cpd:C12042" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C12042">
+        <graphics name="C12042" fgcolor="none" bgcolor="none"
+             type="rectangle" x="293" y="1982" width="49" height="14"/>
+    </entry>
+    <entry id="1085" name="cpd:C12267" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C12267">
+        <graphics name="C12267" fgcolor="none" bgcolor="none"
+             type="rectangle" x="868" y="1629" width="80" height="14"/>
+    </entry>
+    <entry id="1086" name="cpd:C12266" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C12266">
+        <graphics name="C12266" fgcolor="none" bgcolor="none"
+             type="rectangle" x="520" y="1630" width="43" height="15"/>
+    </entry>
+    <entry id="1087" name="cpd:C12030" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C12030">
+        <graphics name="C12030" fgcolor="none" bgcolor="none"
+             type="rectangle" x="189" y="1626" width="71" height="14"/>
+    </entry>
+    <entry id="1088" name="cpd:C12265" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C12265">
+        <graphics name="C12265" fgcolor="none" bgcolor="none"
+             type="rectangle" x="788" y="1268" width="72" height="14"/>
+    </entry>
+    <entry id="1089" name="cpd:C12043" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C12043">
+        <graphics name="C12043" fgcolor="none" bgcolor="none"
+             type="rectangle" x="305" y="1266" width="51" height="14"/>
+    </entry>
+    <entry id="1091" name="cpd:C11615" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C11615">
+        <graphics name="C11615" fgcolor="none" bgcolor="none"
+             type="rectangle" x="541" y="993" width="92" height="14"/>
+    </entry>
+    <entry id="1092" name="cpd:C11218" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C11218">
+        <graphics name="C11218" fgcolor="none" bgcolor="none"
+             type="rectangle" x="291" y="755" width="73" height="14"/>
+    </entry>
+    <entry id="1093" name="cpd:C12041" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C12041">
+        <graphics name="C12041" fgcolor="none" bgcolor="none"
+             type="rectangle" x="784" y="445" width="66" height="13"/>
+    </entry>
+    <entry id="1094" name="cpd:C15482" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C15482">
+        <graphics name="C15482" fgcolor="none" bgcolor="none"
+             type="rectangle" x="309" y="445" width="67" height="13"/>
+    </entry>
+    <entry id="1137" name="path:rn01054" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?rn01054">
+        <graphics name="TITLE:Nonribosomal peptide structures" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="188" y="58" width="296" height="25"/>
+    </entry>
+    <entry id="1090" name="cpd:C01895" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C01895">
+        <graphics name="C01895" fgcolor="none" bgcolor="none"
+             type="rectangle" x="833" y="2410" width="74" height="15"/>
+    </entry>
+    <entry id="1082" name="cpd:C05371" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C05371">
+        <graphics name="C05371" fgcolor="none" bgcolor="none"
+             type="rectangle" x="279" y="2462" width="88" height="15"/>
+    </entry>
+    <entry id="1715" name="cpd:C22668" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22668">
+        <graphics name="C22668" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="481" y="2826" width="8" height="8"/>
+    </entry>
+    <entry id="1716" name="cpd:C00065" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C00065">
+        <graphics name="C00065" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="343" y="2523" width="8" height="8"/>
+    </entry>
+    <entry id="1717" name="rn:R13249" type="reaction" reaction="rn:R13249"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R13249">
+        <graphics name="R13249" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="410" y="2500" width="46" height="17"/>
+    </entry>
+    <entry id="1719" name="rn:R13249" type="reaction" reaction="rn:R13249"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R13249">
+        <graphics name="R13249" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="410" y="2516" width="46" height="17"/>
+    </entry>
+    <entry id="1720" name="rn:R13249" type="reaction" reaction="rn:R13249"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R13249">
+        <graphics name="R13249" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="410" y="2533" width="46" height="17"/>
+    </entry>
+    <entry id="1721" name="cpd:C18618" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C18618">
+        <graphics name="C18618" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="484" y="2524" width="8" height="8"/>
+    </entry>
+    <entry id="1722" name="rn:R13249" type="reaction" reaction="rn:R13249"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R13249">
+        <graphics name="R13249" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="410" y="2550" width="46" height="17"/>
+    </entry>
+</pathway>

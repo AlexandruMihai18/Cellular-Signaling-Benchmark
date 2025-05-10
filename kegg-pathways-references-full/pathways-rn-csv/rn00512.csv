@@ -1,0 +1,13 @@
+id,name,reactants,products,modifiers
+rnR05910,[],"[['Tn antigen', 'CD175', '(GalNAc)1 (Ser/Thr)1']]",[['(GalNAc)1 (GlcNAc)1 (Ser/Thr)1']],[]
+rnR05915,[],[['(GalNAc)1 (GlcNAc)1 (Ser/Thr)1']],[['(GalNAc)1 (GlcNAc)2 (Ser/Thr)1']],[]
+rnR07628,[],[['(GalNAc)1 (GlcNAc)1 (Ser/Thr)1']],[['(Gal)1 (GalNAc)1 (GlcNAc)1 (Ser/Thr)1']],[]
+rnR05914,[],"[['Sialyl T antigen', '(Gal)1 (GalNAc)1 (Neu5Ac)1 (Ser/Thr)1']]",[['(Gal)1 (GalNAc)1 (Neu5Ac)2 (Ser/Thr)1']],[]
+rnR05911,[],"[['Tn antigen', 'CD175', '(GalNAc)1 (Ser/Thr)1']]","[['Sialyl-Tn antigen', '(GalNAc)1 (Neu5Ac)1 (Ser/Thr)1']]",[]
+rnR05913,[],"[['Thomsen-Friedenreich antigen', 'T antigen', '(Gal)1 (GalNAc)1 (Ser/Thr)1']]","[['Sialyl T antigen', '(Gal)1 (GalNAc)1 (Neu5Ac)1 (Ser/Thr)1']]",[]
+rnR05909,[],"[['Tn antigen', 'CD175', '(GalNAc)1 (Ser/Thr)1']]",[['(GalNAc)1 (GlcNAc)1 (Ser/Thr)1']],[]
+rnR05907,[],"[['UDP-N-acetyl-D-galactosamine', 'UDP-N-acetylgalactosamine', '(UDP-GalNAc)1'], ['[Protein]-L-serine', 'Protein serine', 'Protein L-serine']]","[['Tn antigen', 'CD175', '(GalNAc)1 (Ser/Thr)1']]",[]
+rnR05908,[],"[['Tn antigen', 'CD175', '(GalNAc)1 (Ser/Thr)1']]","[['Thomsen-Friedenreich antigen', 'T antigen', '(Gal)1 (GalNAc)1 (Ser/Thr)1']]",[]
+rnR05912,[],"[['Thomsen-Friedenreich antigen', 'T antigen', '(Gal)1 (GalNAc)1 (Ser/Thr)1']]",[['(Gal)1 (GalNAc)1 (GlcNAc)1 (Ser/Thr)1']],[]
+rnR12705,[],"[['Thomsen-Friedenreich antigen', 'T antigen', '(Gal)1 (GalNAc)1 (Ser/Thr)1']]",[['(Gal)1 (GalNAc)1 (GlcNAc)1 (Ser/Thr)1']],[]
+rnR12704,[],"[['Thomsen-Friedenreich antigen', 'T antigen', '(Gal)1 (GalNAc)1 (Ser/Thr)1']]",[['(Gal)1 (GalNAc)1 (Neu5Ac)1 (Ser/Thr)1']],[]

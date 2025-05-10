@@ -1,0 +1,9 @@
+id,name,reactants,products,modifiers
+rnR05932,[],[['(Gal)2 (GalNAc)1 (GlcA)2 (Xyl)1 (Ser)1']],[['(Gal)2 (GalNAc)2 (GlcA)2 (Xyl)1 (Ser)1']],[]
+rnR05931,[],[['(Gal)2 (GalNAc)1 (GlcA)1 (Xyl)1 (Ser)1']],[['(Gal)2 (GalNAc)1 (GlcA)2 (Xyl)1 (Ser)1']],[]
+rnR05929,[],[['(Gal)2 (GlcA)1 (Xyl)1 (Ser)1']],[['(Gal)2 (GalNAc)1 (GlcA)1 (Xyl)1 (Ser)1']],[]
+rnR05928,[],[['(Gal)2 (Xyl)1 (Ser)1']],[['(Gal)2 (GlcA)1 (Xyl)1 (Ser)1']],[]
+rnR05925,[],"[['[Protein]-L-serine', 'Protein serine', 'Protein L-serine']]",[['(Xyl)1 (Ser)1']],[]
+rnR05926,[],[['(Xyl)1 (Ser)1']],[['(Gal)1 (Xyl)1 (Ser)1']],[]
+rnR05927,[],[['(Gal)1 (Xyl)1 (Ser)1']],[['(Gal)2 (Xyl)1 (Ser)1']],[]
+rnR04104,['chondroitin-D-glucuronate 5-epimerase'],"[['Chondroitin', 'Chondroitin-D-glucuronate']]","[['Dermatan', 'Dermatan L-iduronate']]",[]

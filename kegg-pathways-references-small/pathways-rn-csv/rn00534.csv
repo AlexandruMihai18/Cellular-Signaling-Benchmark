@@ -1,0 +1,8 @@
+id,name,reactants,products,modifiers
+rnR05930,[],[['(Gal)2 (GlcA)1 (Xyl)1 (Ser)1']],[['(Gal)2 (GlcA)1 (GlcNAc)1 (Xyl)1 (Ser)1']],[]
+rnR05936,[],[['(Gal)2 (GlcA)2 (GlcNAc)1 (Xyl)1 (Ser)1']],[['(Gal)2 (GlcA)2 (GlcNAc)2 (Xyl)1 (Ser)1']],[]
+rnR05935,[],[['(Gal)2 (GlcA)1 (GlcNAc)1 (Xyl)1 (Ser)1']],[['(Gal)2 (GlcA)2 (GlcNAc)1 (Xyl)1 (Ser)1']],[]
+rnR05925,[],"[['[Protein]-L-serine', 'Protein serine', 'Protein L-serine']]",[['(Xyl)1 (Ser)1']],[]
+rnR05926,[],[['(Xyl)1 (Ser)1']],[['(Gal)1 (Xyl)1 (Ser)1']],[]
+rnR05927,[],[['(Gal)1 (Xyl)1 (Ser)1']],[['(Gal)2 (Xyl)1 (Ser)1']],[]
+rnR05928,[],[['(Gal)2 (Xyl)1 (Ser)1']],[['(Gal)2 (GlcA)1 (Xyl)1 (Ser)1']],[]

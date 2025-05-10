@@ -1,0 +1,7 @@
+id,name,reactants,products,modifiers
+rnR10213,[],"[['2,5-Furandicarboxylate', 'Furan-2,5-dicarboxylate']]","[['2-Furoate', '2-Furoic acid', '2-Furancarboxylic acid', 'Pyromucic acid']]","[['hmfF', '2,5-furandicarboxylate decarboxylase 1']]"
+rnR10858,['5-(hydroxymethyl)furfural:oxygen oxidoreductase'],"[['5-Hydroxymethyl-2-furaldehyde', 'HMF', '5-Hydroxymethylfurfural']]","[['2,5-Furandicarboxylate', 'Furan-2,5-dicarboxylate']]","[['hmfH', '5-(hydroxymethyl)furfural/furfural oxidase']]"
+rnR10210,[],"[['2-Oxoglutaryl-CoA', '2-Oxoglutaroyl-CoA']]","[['2-Oxoglutarate', 'Oxoglutaric acid', '2-Ketoglutaric acid', 'alpha-Ketoglutaric acid']]","[['hmfE', '2-oxoglutaroyl-CoA hydrolase']]"
+rnR02987,['2-furoyl-CoA:(acceptor) 5-oxidoreductase (hydroxylating)'],[['2-Furoyl-CoA']],[['S-(5-Hydroxy-2-furoyl)-CoA']],"[['hmfA', '2-furoyl-CoA dehydrogenase large subunit']]"
+rnR02986,['2-furoate:CoA ligase (AMP-forming)'],"[['2-Furoate', '2-Furoic acid', '2-Furancarboxylic acid', 'Pyromucic acid']]",[['2-Furoyl-CoA']],"[['hmfD', '2-furoate---CoA ligase']]"
+rnR10212,[],"[['Furfural', '2-Furaldehyde']]","[['2-Furoate', '2-Furoic acid', '2-Furancarboxylic acid', 'Pyromucic acid']]","[['hmfH', '5-(hydroxymethyl)furfural/furfural oxidase']]"

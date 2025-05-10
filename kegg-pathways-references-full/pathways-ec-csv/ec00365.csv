@@ -1,0 +1,4 @@
+id,name,reactants,products,modifiers
+rnR10858,['5-(hydroxymethyl)furfural:oxygen oxidoreductase'],"[['5-Hydroxymethyl-2-furaldehyde', 'HMF', '5-Hydroxymethylfurfural']]","[['2,5-Furandicarboxylate', 'Furan-2,5-dicarboxylate']]",[['5-(hydroxymethyl)furfural oxidase']]
+rnR02987,['2-furoyl-CoA:(acceptor) 5-oxidoreductase (hydroxylating)'],[['2-Furoyl-CoA']],[['S-(5-Hydroxy-2-furoyl)-CoA']],"[['2-furoyl-CoA dehydrogenase', 'furoyl-CoA hydroxylase', '2-furoyl coenzyme A hydroxylase', '2-furoyl coenzyme A dehydrogenase', '2-furoyl-CoA:(acceptor) 5-oxidoreductase (hydroxylating)']]"
+rnR02986,['2-furoate:CoA ligase (AMP-forming)'],"[['2-Furoate', '2-Furoic acid', '2-Furancarboxylic acid', 'Pyromucic acid']]",[['2-Furoyl-CoA']],"[['2-furoate---CoA ligase', '2-furoyl coenzyme A synthetase']]"

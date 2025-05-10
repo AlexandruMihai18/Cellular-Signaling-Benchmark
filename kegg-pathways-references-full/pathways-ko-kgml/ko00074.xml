@@ -1,0 +1,642 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "https://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: Jun 25, 2024 16:13:50 +0900 (GMT+9) -->
+<pathway name="path:ko00074" org="ko" number="00074"
+         title="Mycolic acid biosynthesis"
+         image="https://www.kegg.jp/kegg/pathway/ko/ko00074.png"
+         link="https://www.kegg.jp/kegg-bin/show_pathway?ko00074">
+    <entry id="1229" name="cpd:C00229" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C00229">
+        <graphics name="C00229" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="427" y="200" width="8" height="8"/>
+    </entry>
+    <entry id="1231" name="cpd:C03688" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C03688">
+        <graphics name="C03688" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="427" y="138" width="8" height="8"/>
+    </entry>
+    <entry id="1232" name="ko:K00997 ko:K02362" type="ortholog" reaction="rn:R01625"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K00997+K02362">
+        <graphics name="K00997..." fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="428" y="168" width="46" height="17"/>
+    </entry>
+    <entry id="2" name="path:ko00074" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?ko00074">
+        <graphics name="TITLE:Mycolic acid biosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="167" y="58" width="234" height="25"/>
+    </entry>
+    <entry id="3" name="cpd:C00024" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C00024">
+        <graphics name="C00024" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="196" y="121" width="8" height="8"/>
+    </entry>
+    <entry id="4" name="cpd:C00083" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C00083">
+        <graphics name="C00083" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="289" y="186" width="8" height="8"/>
+    </entry>
+    <entry id="6" name="ko:K11263 ko:K18472" type="ortholog" reaction="rn:R00742"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11263+K18472">
+        <graphics name="K11263..." fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="290" y="154" width="46" height="17"/>
+    </entry>
+    <entry id="10" name="cpd:C01209" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C01209">
+        <graphics name="C01209" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="289" y="248" width="8" height="8"/>
+    </entry>
+    <entry id="13" name="ko:K11533" type="ortholog" reaction="rn:R12328 rn:R13255"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11533">
+        <graphics name="K11533" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="197" y="208" width="46" height="17"/>
+    </entry>
+    <entry id="15" name="path:ko00061" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?ko00061">
+        <graphics name="Fatty acid biosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="105" y="201" width="87" height="34"/>
+    </entry>
+    <entry id="18" name="ko:K00645" type="ortholog" reaction="rn:R01626"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K00645">
+        <graphics name="K00645" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="290" y="219" width="46" height="17"/>
+    </entry>
+    <entry id="21" name="cpd:C02843" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C02843">
+        <graphics name="C02843" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="196" y="318" width="8" height="8"/>
+    </entry>
+    <entry id="22" name="ko:K11608" type="ortholog" reaction="rn:R13257"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11608">
+        <graphics name="K11608" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="320" y="318" width="46" height="17"/>
+    </entry>
+    <entry id="25" name="cpd:C22858 cpd:C22862" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22858+C22862">
+        <graphics name="C22858..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="389" y="318" width="8" height="8"/>
+    </entry>
+    <entry id="27" name="cpd:C22859 cpd:C22863" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22859+C22863">
+        <graphics name="C22859..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="389" y="380" width="8" height="8"/>
+    </entry>
+    <entry id="30" name="cpd:C22860 cpd:C22864" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22860+C22864">
+        <graphics name="C22860..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="389" y="442" width="8" height="8"/>
+    </entry>
+    <entry id="31" name="cpd:C20683 cpd:C22861" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C20683+C22861">
+        <graphics name="C20683..." fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="389" y="504" width="8" height="8"/>
+    </entry>
+    <entry id="33" name="cpd:C20876" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C20876">
+        <graphics name="C20876" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="196" y="329" width="8" height="8"/>
+    </entry>
+    <entry id="36" name="ko:K11609" type="ortholog" reaction="rn:R13258 rn:R13262"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11609">
+        <graphics name="K11609" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="390" y="286" width="46" height="17"/>
+    </entry>
+    <entry id="37" name="ko:K11610" type="ortholog" reaction="rn:R13259 rn:R13263"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11610">
+        <graphics name="K11610" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="390" y="348" width="46" height="17"/>
+    </entry>
+    <entry id="38" name="ko:K27071 ko:K27072 ko:K27689" type="ortholog" reaction="rn:R13260 rn:R13264"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K27071+K27072+K27689">
+        <graphics name="K27071..." fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="390" y="410" width="46" height="17"/>
+    </entry>
+    <entry id="39" name="ko:K11611" type="ortholog" reaction="rn:R13261 rn:R13265"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11611">
+        <graphics name="K11611" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="390" y="472" width="46" height="17"/>
+    </entry>
+    <entry id="41" name="cpd:C22873" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22873">
+        <graphics name="C22873" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="554" y="628" width="8" height="8"/>
+    </entry>
+    <entry id="43" name="cpd:C22874" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22874">
+        <graphics name="C22874" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="554" y="690" width="8" height="8"/>
+    </entry>
+    <entry id="44" name="cpd:C22857" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22857">
+        <graphics name="C22857" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="196" y="720" width="8" height="8"/>
+    </entry>
+    <entry id="46" name="ko:K12428" type="ortholog" reaction="rn:R13274"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K12428">
+        <graphics name="K12428" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="555" y="658" width="46" height="17"/>
+    </entry>
+    <entry id="50" name="cpd:C22875" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22875">
+        <graphics name="C22875" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="554" y="782" width="8" height="8"/>
+    </entry>
+    <entry id="54" name="cpd:C22876" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22876">
+        <graphics name="C22876" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="554" y="854" width="8" height="8"/>
+    </entry>
+    <entry id="56" name="cpd:C22877" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22877">
+        <graphics name="C22877" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="554" y="926" width="8" height="8"/>
+    </entry>
+    <entry id="58" name="path:ko00572" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?ko00572">
+        <graphics name="Arabinogalactan biosynthesis - Mycobacterium" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="773" y="929" width="165" height="34"/>
+    </entry>
+    <entry id="59" name="ko:K11263 ko:K27093 ko:K27094 ko:K27095" type="ortholog" reaction="rn:R13256"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11263+K27093+K27094+K27095">
+        <graphics name="K11263..." fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="197" y="611" width="46" height="17"/>
+    </entry>
+    <entry id="60" name="ko:K12437" type="ortholog" reaction="rn:R13275"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K12437">
+        <graphics name="K12437" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="555" y="741" width="46" height="17"/>
+    </entry>
+    <entry id="61" name="ko:K27306" type="ortholog" reaction="rn:R13276"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K27306">
+        <graphics name="K27306" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="555" y="816" width="46" height="17"/>
+    </entry>
+    <entry id="63" name="ko:K18851" type="ortholog" reaction="rn:R13277"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K18851">
+        <graphics name="K18851" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="555" y="888" width="46" height="17"/>
+    </entry>
+    <entry id="1239" name="cpd:C22870" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22870">
+        <graphics name="C22870" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="732" y="318" width="8" height="8"/>
+    </entry>
+    <entry id="1240" name="cpd:C22871" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22871">
+        <graphics name="C22871" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="732" y="380" width="8" height="8"/>
+    </entry>
+    <entry id="1241" name="cpd:C22872" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22872">
+        <graphics name="C22872" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="732" y="442" width="8" height="8"/>
+    </entry>
+    <entry id="1242" name="cpd:C22869" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22869">
+        <graphics name="C22869" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="732" y="504" width="8" height="8"/>
+    </entry>
+    <entry id="1243" name="ko:K27070" type="ortholog" reaction="rn:R13270"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K27070">
+        <graphics name="K27070" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="733" y="286" width="46" height="17"/>
+    </entry>
+    <entry id="1244" name="ko:K11610" type="ortholog" reaction="rn:R13271"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11610">
+        <graphics name="K11610" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="733" y="348" width="46" height="17"/>
+    </entry>
+    <entry id="1245" name="ko:K27072 ko:K27073 ko:K27074" type="ortholog" reaction="rn:R13272"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K27072+K27073+K27074">
+        <graphics name="K27072..." fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="733" y="410" width="46" height="17"/>
+    </entry>
+    <entry id="1246" name="ko:K11611" type="ortholog" reaction="rn:R13273"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11611">
+        <graphics name="K11611" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="733" y="472" width="46" height="17"/>
+    </entry>
+    <entry id="1250" name="cpd:C22866" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22866">
+        <graphics name="C22866" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="554" y="318" width="8" height="8"/>
+    </entry>
+    <entry id="1251" name="cpd:C22867" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22867">
+        <graphics name="C22867" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="554" y="380" width="8" height="8"/>
+    </entry>
+    <entry id="1252" name="cpd:C22868" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22868">
+        <graphics name="C22868" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="554" y="442" width="8" height="8"/>
+    </entry>
+    <entry id="1253" name="cpd:C22865" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22865">
+        <graphics name="C22865" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="554" y="504" width="8" height="8"/>
+    </entry>
+    <entry id="1254" name="ko:K11609" type="ortholog" reaction="rn:R13266"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11609">
+        <graphics name="K11609" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="555" y="286" width="46" height="17"/>
+    </entry>
+    <entry id="1255" name="ko:K11610" type="ortholog" reaction="rn:R13267"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11610">
+        <graphics name="K11610" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="555" y="348" width="46" height="17"/>
+    </entry>
+    <entry id="1256" name="ko:K27071 ko:K27072 ko:K27689" type="ortholog" reaction="rn:R13268"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K27071+K27072+K27689">
+        <graphics name="K27071..." fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="555" y="410" width="46" height="17"/>
+    </entry>
+    <entry id="1257" name="ko:K11611" type="ortholog" reaction="rn:R13269"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K11611">
+        <graphics name="K11611" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="555" y="472" width="46" height="17"/>
+    </entry>
+    <entry id="1261" name="cpd:C01083" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C01083">
+        <graphics name="C01083" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="709" y="721" width="8" height="8"/>
+    </entry>
+    <entry id="1262" name="cpd:C22879" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22879">
+        <graphics name="C22879" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="757" y="854" width="8" height="8"/>
+    </entry>
+    <entry id="1264" name="cpd:C22878" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22878">
+        <graphics name="C22878" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="554" y="997" width="8" height="8"/>
+    </entry>
+    <entry id="1268" name="ko:K18851" type="ortholog" reaction="rn:R13278"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K18851">
+        <graphics name="K18851" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="678" y="855" width="46" height="17"/>
+    </entry>
+    <entry id="1269" name="path:ko00500" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?ko00500">
+        <graphics name="Starch and sucrose metabolism" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="808" y="721" width="115" height="34"/>
+    </entry>
+    <entry id="1271" name="ko:K27308 ko:K27359" type="ortholog" reaction="rn:R13279"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K27308+K27359">
+        <graphics name="K27308..." fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="555" y="959" width="46" height="17"/>
+    </entry>
+    <entry id="1563" name="ko:K26594" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26594">
+        <graphics name="K26594" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1180" y="665" width="46" height="17"/>
+    </entry>
+    <entry id="1564" name="ko:K26596" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26596">
+        <graphics name="K26596" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1245" y="705" width="46" height="17"/>
+    </entry>
+    <entry id="1565" name="ko:K03921" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K03921">
+        <graphics name="K03921" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1191" y="272" width="46" height="17"/>
+    </entry>
+    <entry id="1566" name="ko:K03922" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K03922">
+        <graphics name="K03922" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1141" y="272" width="46" height="17"/>
+    </entry>
+    <entry id="1567" name="ko:K26590" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26590">
+        <graphics name="K26590" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1185" y="331" width="46" height="17"/>
+    </entry>
+    <entry id="1568" name="ko:K26595" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26595">
+        <graphics name="K26595" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1087" y="529" width="46" height="17"/>
+    </entry>
+    <entry id="1569" name="ko:K26591" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26591">
+        <graphics name="K26591" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1215" y="534" width="46" height="17"/>
+    </entry>
+    <entry id="1570" name="ko:K26593" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26593">
+        <graphics name="K26593" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1166" y="591" width="46" height="17"/>
+    </entry>
+    <entry id="1571" name="ko:K26592" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26592">
+        <graphics name="K26592" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1082" y="665" width="46" height="17"/>
+    </entry>
+    <entry id="1572" name="ko:K00120" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K00120">
+        <graphics name="K00120" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1156" y="839" width="46" height="17"/>
+    </entry>
+    <entry id="1575" name="ko:K26590" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26590">
+        <graphics name="K26590" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1185" y="439" width="46" height="17"/>
+    </entry>
+    <entry id="1576" name="ko:K26596" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26596">
+        <graphics name="K26596" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1245" y="842" width="46" height="17"/>
+    </entry>
+    <entry id="1577" name="ko:K26592" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26592">
+        <graphics name="K26592" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1082" y="799" width="46" height="17"/>
+    </entry>
+    <entry id="1578" name="ko:K26592" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26592">
+        <graphics name="K26592" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1082" y="866" width="46" height="17"/>
+    </entry>
+    <entry id="1579" name="ko:K26594" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26594">
+        <graphics name="K26594" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1180" y="799" width="46" height="17"/>
+    </entry>
+    <entry id="1580" name="ko:K26595" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26595">
+        <graphics name="K26595" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1215" y="600" width="46" height="17"/>
+    </entry>
+    <entry id="1581" name="ko:K26595" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26595">
+        <graphics name="K26595" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1215" y="736" width="46" height="17"/>
+    </entry>
+    <entry id="1582" name="ko:K26593" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26593">
+        <graphics name="K26593" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1168" y="707" width="46" height="17"/>
+    </entry>
+    <entry id="1583" name="ko:K26596" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26596">
+        <graphics name="K26596" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1245" y="639" width="46" height="17"/>
+    </entry>
+    <entry id="1584" name="ko:K26596" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26596">
+        <graphics name="K26596" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1245" y="773" width="46" height="17"/>
+    </entry>
+    <entry id="1585" name="ko:K26592" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26592">
+        <graphics name="K26592" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1082" y="600" width="46" height="17"/>
+    </entry>
+    <entry id="1586" name="ko:K26592" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K26592">
+        <graphics name="K26592" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1082" y="736" width="46" height="17"/>
+    </entry>
+    <entry id="1587" name="ko:K00120" type="ortholog"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K00120">
+        <graphics name="K00120" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="1154" y="736" width="46" height="17"/>
+    </entry>
+    <entry id="1593" name="cpd:C01083" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C01083">
+        <graphics name="C01083" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="420" y="907" width="8" height="8"/>
+    </entry>
+    <entry id="2079" name="cpd:C00031" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C00031">
+        <graphics name="C00031" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="485" y="808" width="8" height="8"/>
+    </entry>
+    <entry id="2080" name="cpd:C22855" type="compound"
+        link="https://www.kegg.jp/dbget-bin/www_bget?C22855">
+        <graphics name="C22855" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="351" y="854" width="8" height="8"/>
+    </entry>
+    <entry id="2083" name="ko:K18851" type="ortholog" reaction="rn:R13280"
+        link="https://www.kegg.jp/dbget-bin/www_bget?K18851">
+        <graphics name="K18851" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="453" y="855" width="46" height="17"/>
+    </entry>
+    <relation entry1="6" entry2="18" type="ECrel">
+        <subtype name="compound" value="4"/>
+    </relation>
+    <relation entry1="1232" entry2="18" type="ECrel">
+        <subtype name="compound" value="1229"/>
+    </relation>
+    <relation entry1="13" entry2="6" type="ECrel">
+        <subtype name="compound" value="3"/>
+    </relation>
+    <relation entry1="13" entry2="22" type="ECrel">
+        <subtype name="compound" value="21"/>
+    </relation>
+    <relation entry1="18" entry2="22" type="ECrel">
+        <subtype name="compound" value="10"/>
+    </relation>
+    <relation entry1="18" entry2="36" type="ECrel">
+        <subtype name="compound" value="10"/>
+    </relation>
+    <relation entry1="18" entry2="1254" type="ECrel">
+        <subtype name="compound" value="10"/>
+    </relation>
+    <relation entry1="18" entry2="1243" type="ECrel">
+        <subtype name="compound" value="10"/>
+    </relation>
+    <relation entry1="22" entry2="36" type="ECrel">
+        <subtype name="compound" value="10"/>
+    </relation>
+    <relation entry1="36" entry2="1243" type="ECrel">
+        <subtype name="compound" value="10"/>
+    </relation>
+    <relation entry1="13" entry2="59" type="ECrel">
+        <subtype name="compound" value="33"/>
+    </relation>
+    <relation entry1="15" entry2="13" type="maplink">
+        <subtype name="compound" value="3"/>
+    </relation>
+    <relation entry1="15" entry2="6" type="maplink">
+        <subtype name="compound" value="3"/>
+    </relation>
+    <relation entry1="22" entry2="15" type="maplink">
+        <subtype name="compound" value="21"/>
+    </relation>
+    <relation entry1="15" entry2="59" type="maplink">
+        <subtype name="compound" value="33"/>
+    </relation>
+    <relation entry1="22" entry2="1254" type="ECrel">
+        <subtype name="compound" value="10"/>
+    </relation>
+    <relation entry1="22" entry2="1243" type="ECrel">
+        <subtype name="compound" value="10"/>
+    </relation>
+    <relation entry1="1254" entry2="1243" type="ECrel">
+        <subtype name="compound" value="10"/>
+    </relation>
+    <relation entry1="22" entry2="36" type="ECrel">
+        <subtype name="compound" value="25"/>
+    </relation>
+    <relation entry1="22" entry2="37" type="ECrel">
+        <subtype name="compound" value="25"/>
+    </relation>
+    <relation entry1="36" entry2="37" type="ECrel">
+        <subtype name="compound" value="25"/>
+    </relation>
+    <relation entry1="37" entry2="38" type="ECrel">
+        <subtype name="compound" value="27"/>
+    </relation>
+    <relation entry1="38" entry2="39" type="ECrel">
+        <subtype name="compound" value="30"/>
+    </relation>
+    <relation entry1="1254" entry2="1255" type="ECrel">
+        <subtype name="compound" value="1250"/>
+    </relation>
+    <relation entry1="1255" entry2="1256" type="ECrel">
+        <subtype name="compound" value="1251"/>
+    </relation>
+    <relation entry1="1256" entry2="1257" type="ECrel">
+        <subtype name="compound" value="1252"/>
+    </relation>
+    <relation entry1="1243" entry2="1244" type="ECrel">
+        <subtype name="compound" value="1239"/>
+    </relation>
+    <relation entry1="1244" entry2="1245" type="ECrel">
+        <subtype name="compound" value="1240"/>
+    </relation>
+    <relation entry1="1245" entry2="1246" type="ECrel">
+        <subtype name="compound" value="1241"/>
+    </relation>
+    <relation entry1="46" entry2="60" type="ECrel">
+        <subtype name="compound" value="43"/>
+    </relation>
+    <relation entry1="59" entry2="60" type="ECrel">
+        <subtype name="compound" value="44"/>
+    </relation>
+    <relation entry1="60" entry2="61" type="ECrel">
+        <subtype name="compound" value="50"/>
+    </relation>
+    <relation entry1="61" entry2="2083" type="ECrel">
+        <subtype name="compound" value="54"/>
+    </relation>
+    <relation entry1="61" entry2="63" type="ECrel">
+        <subtype name="compound" value="54"/>
+    </relation>
+    <relation entry1="61" entry2="1268" type="ECrel">
+        <subtype name="compound" value="54"/>
+    </relation>
+    <relation entry1="63" entry2="1271" type="ECrel">
+        <subtype name="compound" value="56"/>
+    </relation>
+    <relation entry1="1268" entry2="58" type="maplink">
+        <subtype name="compound" value="1262"/>
+    </relation>
+    <relation entry1="1269" entry2="1268" type="maplink">
+        <subtype name="compound" value="1261"/>
+    </relation>
+    <relation entry1="1269" entry2="60" type="maplink">
+        <subtype name="compound" value="1261"/>
+    </relation>
+    <relation entry1="1268" entry2="60" type="ECrel">
+        <subtype name="compound" value="1261"/>
+    </relation>
+    <relation entry1="39" entry2="36" type="ECrel">
+        <subtype name="compound" value="31"/>
+    </relation>
+    <relation entry1="1257" entry2="1254" type="ECrel">
+        <subtype name="compound" value="1253"/>
+    </relation>
+    <relation entry1="1246" entry2="1243" type="ECrel">
+        <subtype name="compound" value="1242"/>
+    </relation>
+    <reaction id="6" name="rn:R00742" type="irreversible">
+        <substrate id="3" name="cpd:C00024"/>
+        <product id="4" name="cpd:C00083"/>
+    </reaction>
+    <reaction id="1232" name="rn:R01625" type="irreversible">
+        <substrate id="1231" name="cpd:C03688"/>
+        <product id="1229" name="cpd:C00229"/>
+    </reaction>
+    <reaction id="18" name="rn:R01626" type="irreversible">
+        <substrate id="1229" name="cpd:C00229"/>
+        <substrate id="4" name="cpd:C00083"/>
+        <product id="10" name="cpd:C01209"/>
+    </reaction>
+    <reaction id="22" name="rn:R13257" type="irreversible">
+        <substrate id="21" name="cpd:C02843"/>
+        <substrate id="10" name="cpd:C01209"/>
+        <product id="25" name="cpd:C22858"/>
+    </reaction>
+    <reaction id="1254" name="rn:R13266" type="irreversible">
+        <substrate id="1253" name="cpd:C22865"/>
+        <substrate id="10" name="cpd:C01209"/>
+        <product id="1250" name="cpd:C22866"/>
+    </reaction>
+    <reaction id="1255" name="rn:R13267" type="irreversible">
+        <substrate id="1250" name="cpd:C22866"/>
+        <product id="1251" name="cpd:C22867"/>
+    </reaction>
+    <reaction id="1256" name="rn:R13268" type="irreversible">
+        <substrate id="1251" name="cpd:C22867"/>
+        <product id="1252" name="cpd:C22868"/>
+    </reaction>
+    <reaction id="1257" name="rn:R13269" type="irreversible">
+        <substrate id="1252" name="cpd:C22868"/>
+        <product id="1253" name="cpd:C22865"/>
+    </reaction>
+    <reaction id="1243" name="rn:R13270" type="irreversible">
+        <substrate id="1242" name="cpd:C22869"/>
+        <substrate id="10" name="cpd:C01209"/>
+        <product id="1239" name="cpd:C22870"/>
+    </reaction>
+    <reaction id="1244" name="rn:R13271" type="irreversible">
+        <substrate id="1239" name="cpd:C22870"/>
+        <product id="1240" name="cpd:C22871"/>
+    </reaction>
+    <reaction id="1245" name="rn:R13272" type="irreversible">
+        <substrate id="1240" name="cpd:C22871"/>
+        <product id="1241" name="cpd:C22872"/>
+    </reaction>
+    <reaction id="1246" name="rn:R13273" type="irreversible">
+        <substrate id="1241" name="cpd:C22872"/>
+        <product id="1242" name="cpd:C22869"/>
+    </reaction>
+    <reaction id="59" name="rn:R13256" type="irreversible">
+        <substrate id="33" name="cpd:C20876"/>
+        <product id="44" name="cpd:C22857"/>
+    </reaction>
+    <reaction id="46" name="rn:R13274" type="irreversible">
+        <substrate id="41" name="cpd:C22873"/>
+        <product id="43" name="cpd:C22874"/>
+    </reaction>
+    <reaction id="60" name="rn:R13275" type="irreversible">
+        <substrate id="1261" name="cpd:C01083"/>
+        <substrate id="44" name="cpd:C22857"/>
+        <substrate id="43" name="cpd:C22874"/>
+        <product id="50" name="cpd:C22875"/>
+    </reaction>
+    <reaction id="61" name="rn:R13276" type="irreversible">
+        <substrate id="50" name="cpd:C22875"/>
+        <product id="54" name="cpd:C22876"/>
+    </reaction>
+    <reaction id="63" name="rn:R13277" type="irreversible">
+        <substrate id="54" name="cpd:C22876"/>
+        <product id="1593" name="cpd:C01083"/>
+        <product id="56" name="cpd:C22877"/>
+    </reaction>
+    <reaction id="1268" name="rn:R13278" type="irreversible">
+        <substrate id="54" name="cpd:C22876"/>
+        <product id="1262" name="cpd:C22879"/>
+        <product id="1261" name="cpd:C01083"/>
+    </reaction>
+    <reaction id="2083" name="rn:R13280" type="irreversible">
+        <substrate id="2079" name="cpd:C00031"/>
+        <substrate id="54" name="cpd:C22876"/>
+        <product id="2080" name="cpd:C22855"/>
+        <product id="1593" name="cpd:C01083"/>
+    </reaction>
+    <reaction id="1271" name="rn:R13279" type="irreversible">
+        <substrate id="56" name="cpd:C22877"/>
+        <product id="1264" name="cpd:C22878"/>
+    </reaction>
+</pathway>

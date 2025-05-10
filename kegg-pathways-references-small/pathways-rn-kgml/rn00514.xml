@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "https://www.kegg.jp/kegg/xml/KGML_v0.7.2_.dtd">
+<!-- Creation date: Jul 20, 2020 11:28:48 +0900 (GMT+9) -->
+<pathway name="path:rn00514" org="rn" number="00514"
+         title="Other types of O-glycan biosynthesis"
+         image="https://www.kegg.jp/kegg/pathway/rn/rn00514.png"
+         link="https://www.kegg.jp/kegg-bin/show_pathway?rn00514">
+    <entry id="2" name="path:rn00514" type="map"
+        link="https://www.kegg.jp/dbget-bin/www_bget?rn00514">
+        <graphics name="TITLE:Other types of O-glycan biosynthesis" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="207" y="58" width="333" height="25"/>
+    </entry>
+    <entry id="3" name="rn:R03380" type="reaction" reaction="rn:R03380"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R03380">
+        <graphics name="R03380" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="163,591,193,591"/>
+    </entry>
+    <entry id="4" name="rn:R09316" type="reaction" reaction="rn:R09316"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09316">
+        <graphics name="R09316" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="283,287,298,272"/>
+    </entry>
+    <entry id="5" name="rn:R04491" type="reaction" reaction="rn:R04491"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R04491">
+        <graphics name="R04491" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="92,591,122,591"/>
+    </entry>
+    <entry id="6" name="rn:R09297 rn:R09298" type="reaction" reaction="rn:R09297 rn:R09298"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09297+R09298">
+        <graphics name="R09297..." fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="114,243,144,243"/>
+    </entry>
+    <entry id="7" name="rn:R09296" type="reaction" reaction="rn:R09296"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09296">
+        <graphics name="R09296" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="285,243,300,258"/>
+    </entry>
+    <entry id="8" name="rn:R09299" type="reaction" reaction="rn:R09299"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09299">
+        <graphics name="R09299" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="195,243,225,243"/>
+    </entry>
+    <entry id="9" name="rn:R09295" type="reaction" reaction="rn:R09295"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09295">
+        <graphics name="R09295" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="349,266,379,266"/>
+    </entry>
+    <entry id="10" name="rn:R12637" type="reaction" reaction="rn:R12637"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R12637">
+        <graphics name="R12637" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="88,494,118,494"/>
+    </entry>
+    <entry id="11" name="rn:R09315" type="reaction" reaction="rn:R09315"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09315">
+        <graphics name="R09315" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="221,494,251,494"/>
+    </entry>
+    <entry id="12" name="rn:R09290" type="reaction" reaction="rn:R09290"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09290">
+        <graphics name="R09290" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="153,494,183,494"/>
+    </entry>
+    <entry id="13" name="rn:R09304" type="reaction" reaction="rn:R09304"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09304">
+        <graphics name="R09304" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="113,147,143,147"/>
+    </entry>
+    <entry id="14" name="rn:R09303" type="reaction" reaction="rn:R09303"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09303">
+        <graphics name="R09303" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="550,151,580,151"/>
+    </entry>
+    <entry id="15" name="rn:R09302" type="reaction" reaction="rn:R09302"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09302">
+        <graphics name="R09302" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="623,151,653,151"/>
+    </entry>
+    <entry id="16" name="rn:R09301" type="reaction" reaction="rn:R09301"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09301">
+        <graphics name="R09301" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="695,151,725,151"/>
+    </entry>
+    <entry id="17" name="rn:R09300" type="reaction" reaction="rn:R09300"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09300">
+        <graphics name="R09300" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="769,151,799,151"/>
+    </entry>
+    <entry id="18" name="rn:R07620" type="reaction" reaction="rn:R07620"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R07620">
+        <graphics name="R07620" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="841,151,871,151"/>
+    </entry>
+    <entry id="21" name="rn:R09301" type="reaction" reaction="rn:R09301"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09301">
+        <graphics name="R09301" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="695,175,725,175"/>
+    </entry>
+    <entry id="22" name="rn:R09300" type="reaction" reaction="rn:R09300"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09300">
+        <graphics name="R09300" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="769,175,799,175"/>
+    </entry>
+    <entry id="23" name="rn:R07620" type="reaction" reaction="rn:R07620"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R07620">
+        <graphics name="R07620" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="841,175,871,175"/>
+    </entry>
+    <entry id="26" name="rn:R09301" type="reaction" reaction="rn:R09301"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09301">
+        <graphics name="R09301" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="695,200,725,200"/>
+    </entry>
+    <entry id="27" name="rn:R09300" type="reaction" reaction="rn:R09300"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09300">
+        <graphics name="R09300" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="769,200,799,200"/>
+    </entry>
+    <entry id="28" name="rn:R07620" type="reaction" reaction="rn:R07620"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R07620">
+        <graphics name="R07620" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="841,200,871,200"/>
+    </entry>
+    <entry id="31" name="rn:R09301" type="reaction" reaction="rn:R09301"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09301">
+        <graphics name="R09301" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="611,251,641,251"/>
+    </entry>
+    <entry id="32" name="rn:R09300" type="reaction" reaction="rn:R09300"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09300">
+        <graphics name="R09300" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="685,251,715,251"/>
+    </entry>
+    <entry id="33" name="rn:R07620" type="reaction" reaction="rn:R07620"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R07620">
+        <graphics name="R07620" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="757,251,787,251"/>
+    </entry>
+    <entry id="54" name="rn:R09296" type="reaction" reaction="rn:R09296"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09296">
+        <graphics name="R09296" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="118,352,133,367"/>
+    </entry>
+    <entry id="55" name="rn:R09295" type="reaction" reaction="rn:R09295"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R09295">
+        <graphics name="R09295" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="182,375,212,375"/>
+    </entry>
+    <entry id="56" name="rn:R05908" type="reaction" reaction="rn:R05908"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R05908">
+        <graphics name="R05908" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="608,654,618,644"/>
+    </entry>
+    <entry id="57" name="rn:R05907" type="reaction" reaction="rn:R05907"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R05907">
+        <graphics name="R05907" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="681,639,701,639"/>
+    </entry>
+    <entry id="58" name="rn:R12482" type="reaction" reaction="rn:R12482"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R12482">
+        <graphics name="R12482" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="550,655,570,655"/>
+    </entry>
+    <entry id="59" name="rn:R05908" type="reaction" reaction="rn:R05908"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R05908">
+        <graphics name="R05908" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="550,751,560,741"/>
+    </entry>
+    <entry id="60" name="rn:R05907" type="reaction" reaction="rn:R05907"
+        link="https://www.kegg.jp/dbget-bin/www_bget?R05907">
+        <graphics name="R05907" fgcolor="#6666CC" bgcolor="#FFFFFF"
+             type="line" coords="623,736,643,736"/>
+    </entry>
+</pathway>

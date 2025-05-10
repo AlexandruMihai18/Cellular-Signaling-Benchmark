@@ -1,0 +1,6 @@
+id,name,reactants,products,modifiers
+rnR08036,"['acetyl-CoA:2,4-diamino-6-nitrotoluene N-acetyltransferase']","[['2,4-Diamino-6-nitrotoluene']]",[['4-Acetamido-2-amino-6-nitrotoluene']],"[['nat', 'arylamine N-acetyltransferase']]"
+rnR08035,[],"[['2,4-Diamino-6-hydroxylaminotoluene']]","[['2,4,6-Triaminotoluene']]","[['dsrA', 'dissimilatory sulfite reductase alpha subunit']]"
+rnR08034,[],"[['2,4-Diamino-6-nitrotoluene']]","[['2,4-Diamino-6-hydroxylaminotoluene']]","[['cooS, acsA', 'anaerobic carbon-monoxide dehydrogenase catalytic subunit'], ['hyaB, hybC', 'hydrogenase large subunit'], ['porA', 'pyruvate ferredoxin oxidoreductase alpha subunit']]"
+rnR08042,[],"[['Trinitrotoluene', '2,4,6-Trinitrotoluene']]","[['2-Hydroxylamino-4,6-dinitrotoluene']]","[['nfsA', 'nitroreductase']]"
+rnR09233,"['2,4-dinitrotoluene,NADH:oxygen oxidoreductase (4,5-hydroxylating, nitrite-releasing)']","[['2,4-Dinitrotoluene', '2,4-DNT']]",[['4-Methyl-5-nitrocatechol']],"[['nahAc, ndoB, nbzAc, dntAc', 'naphthalene 1,2-dioxygenase subunit alpha']]"
